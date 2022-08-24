@@ -1,0 +1,68 @@
+@font-face {
+    font-family: BebasNeue;
+    src: local(BebasNeue), url(./BebasNeue.otf)
+  }
+
+body
+{
+    background-color: black;
+}
+
+#bodydetails
+{
+    background-color: white;
+}
+
+.titulo
+{
+    margin-top: 12px;
+    padding-left: 12px;
+    font-size: 50px;
+}
+
+#cartao
+{
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.card
+{
+    margin-bottom: 36px;
+}
+
+.card-img-top
+{
+    padding: 5px;
+    height: 400px;
+}
+
+h1
+{
+    font-family: "BebasNeue";
+}
+
+.titulo1
+{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 12px;
+    font-size: 80px;
+}
+
+#checklist
+{
+    margin-top: 40px;
+}
+
+#detalhes-img
+{
+    width: 320px;
+    height: 500px;
+    padding-left: 30px;
+}
+
+#link-detail
+{
+    margin-top: 20px;
+}
